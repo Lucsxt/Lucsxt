@@ -1,6 +1,6 @@
 <div align="center">
   
-<h2>Olá, eu sou o Lucas! Futuro Desenvolvedor Full Stack 🥸</h2>
+<h1>Olá, eu sou o Lucas! Futuro Desenvolvedor Full Stack 🥸</h1>
   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandroluca03@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sandrolucas_/)
@@ -15,7 +15,7 @@
 <!--![Sandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucsxt&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucsxt)](https://github.com/anuraghazra/github-readme-stats)-->
 
-  <h3>Linguagens que eu estou aprendendo!</h3>
+  <h2>Linguagens que eu estou aprendendo!</h2>
 
 <div style="display: inline_block"></br>
 <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
