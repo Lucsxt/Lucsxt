@@ -19,5 +19,4 @@
 </div></br>
 
 ![Snake animation](https://github.com/Lucsxt/Lucsxt/blob/output/github-contribution-grid-snake.svg)
-
-### "Não existe atalho para o sucesso, o caminho é o trabalho!"
+<h1>"Não existe atalho para o sucesso, o caminho é o trabalho!"</h1>
