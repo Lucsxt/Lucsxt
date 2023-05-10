@@ -1,6 +1,6 @@
 <div align="center">
   
-<h1>Olá, eu sou o Lucas! Futuro Desenvolvedor Full Stack 🥸</h1>
+<h1>Oi, eu sou o Lucas! Futuro Desenvolvedor Full Stack 🥸</h1>
   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandroluca03@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sandrolucas_/)
