@@ -6,7 +6,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sandrolucas_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandro-lucas/)
 
-![Sandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucsxt&show_icons=true&theme=merko)
+<div>
+  <a href="https://github.com/ellen2121">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Lucsxt&show_icons=true&theme=merko"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucsxt&layout=compact&langs_count=7&theme=react"/>
+</div>
+
+<!--![Sandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucsxt&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucsxt)](https://github.com/anuraghazra/github-readme-stats)-->
 
   <h3>Linguagens que eu estou aprendendo!</h3>
 
